@@ -9,14 +9,22 @@
 * 🇮🇩 Indie dev & modder from **Indonesia**
 * 💻 Lead dev of **[MoeDev](https://moedev.eu.org)** (`tetoOS` / custom Windows & Linux builds)
 * 🎮 Nintendo Switch homebrew porter (**[Super3DXPlus-NX](https://github.com/Holymagi/Super3DXPlus-NX)**)
+* 🌐 Webdev & other projects: **[@dwikamiyakeaoi02020707-art](https://github.com/dwikamiyakeaoi02020707-art)** (`ymgi.tech`, `webflacplayer`, etc.)
 * 🛠️ Python, Batch, & Windows tweaking enthusiast
 * 🎵 Vocaloid / UTAU fan (Kasane Teto enjoyer)
 
 <br clear="right"/>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holymagi&layout=compact&theme=transparent&hide_border=true" width="42%" align="right" />
-</div>
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holymagi&layout=compact&theme=transparent&hide_border=true&custom_title=Holymagi%20(Native%20%26%20Tools)" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikamiyakeaoi02020707-art&layout=compact&theme=transparent&hide_border=true&custom_title=MoeDev%20(Webdev)" width="48%" />
+</p>
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -29,9 +37,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br clear="right"/>
-
 ---
 
 ### 👀 Profile Views
-<img src="https://count.getloli.com/@Holymagi?name=Holymagi&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Holymagi" />
+<img src="https://count.getloli.com/@Holymagi?name=Holymagi&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Holymagi" />
